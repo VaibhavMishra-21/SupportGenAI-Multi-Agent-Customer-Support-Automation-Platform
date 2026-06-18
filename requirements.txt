@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-google-genai
+chromadb
+sentence-transformers
+streamlit
+python-dotenv
+pydantic
+textblob
+pandas
+plotly
